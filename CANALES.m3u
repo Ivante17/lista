@@ -1,360 +1,480 @@
 #EXTM3U
+#EXTINF:0,La Nacion +
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/H6D5F1LIkt-2REtNzH38AeeVvPIwX1Wp3NwzNZ_VTJc
 
-#EXTINF:-1 group-title="Bics Extra", La Nacion+
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0,AMERICA TV
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/H6D5F1LIkt-2REtNzH38AT2P21gYA_6pV323wlJ65hgZL-G8twqcVJ4a-_cbv7Q7
 
-#EXTINF:-1 group-title="Bics Extra", AMERICA TV
-http://apexelite.xyz:8080/daddyboy1527@yahoo.com/9W7UkPVSZv/578426
+#EXTINF:0,TN AR 
+#EXTGRP:Bics Extra
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", TN AR
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:0,A24
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/H6D5F1LIkt-2REtNzH38AaLfypy47IetsF2AQHYAZ_nao8sxLw7sFLeCg7wpKXdB
 
-#EXTINF:-1 group-title="Bics Extra", A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:0,C5N
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/Leonel61/LU581526024/639.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0,CRONICA TV
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/JoseIsaac/ZNUGU/19708
 
-#EXTINF:-1 group-title="Bics Extra", IP NOTICIAS
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/574303
+#EXTINF:0,TELEVISIÓN PÚBLICA 
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/H6D5F1LIkt-2REtNzH38Ae2d_Lgt3vJ8SRqiEuQQ2uzrYDVOd6Lb007sHpkcFZtP
 
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El trece SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="General",El trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,IP NOTICIAS
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/aV1bNynIO7O-p_6lms4_9vONOR3Evx3K3jgP7oQClds
 
-#EXTINF:-1 tvg-id="Cronica TV" tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/200px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="General",Cronica TV
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:0,EL NUEVE 
+#EXTGRP:Bics Extra
+http://iptvpremium.ink:55577/david1/david2/167932
 
-#EXTINF:-1  group-title="Bics Extra", EL NUEVE
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/578475
+#EXTINF:0,CANAL 26
+#EXTGRP:Bics Extra
+http://papus.pro:2082/Jonavillar21/villar21/501808
 
-#EXTINF:-1 tvg-id="TV Publica" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="General",TV Publica
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/499.ts
-
-#EXTINF:-1  group-title="Bics Extra", TELEFE
+#EXTINF:0,TELEFE
+#EXTGRP:Bics Extra
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", CANAL 26
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/574247
+#EXTINF:0,CANAL DE LA CIUDAD
+#EXTGRP:Bics Extra
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", EL TRECE TVHD
+#EXTINF:0,EL TRECE TV
+#EXTGRP:Bics Extra
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", EL NUEVE 2
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/61568
+#EXTINF:0,CANAL E
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a04w/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", AMERICA TV 2
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/61552
+#EXTINF:0,LATINA TV
+#EXTGRP:Bics Extra
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
-#EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="General",El Garage TV
+#EXTINF:0,CANAL MAGAZINE
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/099875156/099875156a/3787
+
+#EXTINF:0,NET TV
+#EXTGRP:Bics Extra
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+
+#EXTINF:0,AMERICA TV (ALTERNATIVO-DELAY)
+#EXTGRP:Bics Extra
+http://ultrapremium.cloud:8080/live/975950639tv/r6z3gq/61553.m3u8
+
+#EXTINF:0,EL NUEVE (-DELAY)) PROVISORIO
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/GMZKZHyCUq-zx1K38otbSNHAJVXwgafx6eQb7b7ByHM
+
+#EXTINF:0,GARAGE TV
+#EXTGRP:Bics Extra
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="General",Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ARGENTINISIMA SATELITAL
+#EXTGRP:Bics Extra
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
+#EXTINF:0,LOS 3 CHIFLADOS 24/7
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", TOM &JERRY 24/7
-http://vo01.mohdtv.com:8880/voby1161/izzod4vl/60878
+#EXTINF:0,PANTERA ROSA 24/7
+#EXTGRP:Bics Extra
+http://yesimes.oknirvana.club:8880/D12m2846/23828775/60882
 
-#EXTINF:-1 group-title="Bics Extra", LOS SIMPSONS 1-5
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/294010.ts
+#EXTINF:0,PORCEL Y OLMEDO 24/7
+#EXTGRP:Bics Extra
+http://masterprotv1.com:8080/live/carlosvera/neFp9CqE4f/184489.ts
 
-#EXTINF:-1 group-title="Bics Extra", LOS SIMPSONS 6-11
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/294011.ts
+#EXTINF:0,LOS SIMPSONS 1-5 
+#EXTGRP:Bics Extra
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/769
 
-#EXTINF:-1 group-title="Bics Extra", LA PANTERA ROSA 24/7
-http://kmkus.wanicelife.com:8880/D12m2480/78660081/60882
+#EXTINF:0,LOS SIMPSONS 24/7 
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", LA PANTERA ROSA 24/7 OP2
-http://vo01.mohdtv.com:8880/voby1161/izzod4vl/60882
+#EXTINF:0,Dr HOUSE 24/7
+#EXTGRP:Bics Extra
+http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
 
-#EXTINF:-1 group-title="Bics Extra", BOB ESPONJA 24/7
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/263168.ts
+#EXTINF:0,LOONEY TUNES 24/7 
+#EXTGRP:Bics Extra
+http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
 
-#EXTINF:-1 group-title="Bics Extra", ALF 24/7
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/765
+#EXTINF:0,ALF 24/7
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/lamorenita1978/familiaVega8/79163.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", NICKELODEON
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4226
+#EXTINF:0,EL CHAVO DEL 8 - 24/7
+#EXTGRP:Bics Extra
+http://chiletv.ddns.me:2082/Ale96/ale1218/48357
 
-#EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:0,THE WALKING DEAD 24/7
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/CGTTE/XNHZA/169822
 
+#EXTINF:0,FUTURAMA 24/7 
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/CRUIZ292/UMAJZ/46284
 
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", CINE 37 PPV
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/12023
+#EXTINF:0,NICKELODEON
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a01f/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", LIMON TV
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:0,CANAL 13 San Juan
+#EXTGRP:Bics Extra
+https://stream.arcast.host:8443/mp/mp/chunklist_w1693148892.m3u8?WebM3UCL
 
-#EXTINF:-1 group-title="Bics Extra", LATINA TV
-https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
+#EXTINF:0,CINCO TV
+#EXTGRP:Bics Extra
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", INPO TV
-https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
+#EXTINF:0,COSMOS TV
+#EXTGRP:Bics Extra
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", ORBIT TV
+#EXTINF:0,ORBIT TV
+#EXTGRP:Bics Extra
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Bics Extra", LA POPULAR TV
-https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", PLANETA TV MOVIE
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", NETFLIX ACCION
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/60501
-
-#EXTINF:-1 group-title="Bics Extra", STAR+
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/31
-
-#EXTINF:-1 group-title="Bics Extra", FX
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/25
-
-#EXTINF:-1 group-title="Bics Extra", CINECANAL
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/27
-
-#EXTINF:-1 group-title="Bics Extra", CINEMAX
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
-
-#EXTINF:-1 group-title="Bics Extra", SONY TV
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/257
-
-#EXTINF:-1 group-title="Bics Extra", AMC
-http://pro.xviptv.com:25443/live/V18NafdBFCZ5W/AoVTgaxv9V/78340.ts
-
-#EXTINF:-1 group-title="Bics Extra", TNT
-http://152.89.62.76:8880/DAANM168/fnvbxK5eF8/49983
-
-#EXTINF:-1 group-title="Bics Extra", TNT HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/261
-
-#EXTINF:-1 group-title="Bics Extra", TNT SERIES
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62694
-
-#EXTINF:-1 group-title="Bics Extra", STUDIO Universal
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/259
-
-#EXTINF:-1 group-title="Bics Extra", UNIVERSAL STUDIOS
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/220
-
-#EXTINF:-1 group-title="Bics Extra", UNIVERSAL REALITY
-http://379923435779666082.ofd0120.xyz:80/play/vi89797/QBStbWGsuhfw/666082.ts
-
-#EXTINF:-1 group-title="Bics Extra", UNIVERSAL CINEMA
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/278168.ts
-
-#EXTINF:-1 group-title="Bics Extra", PARAMOUNT
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62754
-
-#EXTINF:-1 group-title="Bics Extra", SPACE
-http://vo01.mohdtv.com:8880/voby1161/izzod4vl/58003
-
-#EXTINF:-1 group-title="Bics Extra", HBO
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/239
-
-#EXTINF:-1 group-title="Bics Extra", HBO 2
-https://ultrapremium.cloud:8443/prm2312101/R668hMheRSpG/132
-
-#EXTINF:-1 group-title="Bics Extra", HBO +
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
-
-#EXTINF:-1 group-title="Bics Extra", HBO SIGNATURE
-http://pro.xviptv.com:25443/live/V18NafdBFCZ5W/AoVTgaxv9V/67387.ts
-
-#EXTINF:-1 group-title="Bics Extra", HBO FAMILY
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/269
-
-#EXTINF:-1 group-title="Bics Extra", HBO POP
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3937
-
-#EXTINF:-1 group-title="Bics Extra", HBO XTREME
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4281
-
-#EXTINF:-1 group-title="Bics Extra", HBO MUNDI
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/174
-
-#EXTINF:-1 group-title="Bics Extra", STARZ CINEMA
-http://379923435779762427.ofd0120.xyz:80/play/vi89797/QBStbWGsuhfw/762427.ts
-
-#EXTINF:-1 group-title="Bics Extra", STARZ CINEMA 2
-http://kmkus.wanicelife.com:8880/D12m2480/78660081/57995
-
-#EXTINF:-1 group-title="Bics Extra", STARZ EAST
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/208
-
-#EXTINF:-1 group-title="Bics Extra", STARZ ENCORE CLASSIC
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/211
-
-#EXTINF:-1 group-title="Bics Extra", STARZ ENCORE FAMILY
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/212
-
-#EXTINF:-1 group-title="Bics Extra", STARZ ENCORE SUSPENSE
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/214
-
-#EXTINF:-1 group-title="Bics Extra", WARNER
-http://vo01.mohdtv.com:8880/voby1161/izzod4vl/57963
-
-#EXTINF:-1 group-title="Bics Extra", TCM
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62724
-
-#EXTINF:-1 group-title="Bics Extra", VOLVER
-http://607956789401762251.ofd0120.xyz:80/play/vi1126849/wJtX@KQtX3/762251.ts
-
-#EXTINF:-1 group-title="Bics Extra", GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", GOLDEN EDGE
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/263341.ts
-
-#EXTINF:-1 group-title="Bics Extra", AXN
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/210
-
-#EXTINF:-1 group-title="Bics Extra", A&e
-http://152.89.62.76:8880/1mmk040092/26827438/49751
-
-#EXTINF:-1 group-title="Bics Extra", COMEDY CENTRAL
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/574261
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bics Extra", DISCOVERY
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62828
-
-#EXTINF:-1 group-title="Bics Extra", DISCOVERY TURBO
-http://kmkus.wanicelife.com:8880/D12m2480/78660081/58034
-
-#EXTINF:-1 group-title="Bics Extra", H&H
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/574300
-
-#EXTINF:-1 group-title="Bics Extra", HISTORY
-http://607956789401765410.ofd0120.xyz:80/play/vi1126849/wJtX@KQtX3/765410.ts
-
-#EXTINF:-1 group-title="Bics Extra", HISTORY 2
-http://607956789401766871.ofd0120.xyz:80/play/vi1126849/wJtX@KQtX3/766871.ts
-
-#EXTINF:-1 group-title="Bics Extra", NAT GEO
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62764
-
-
-
-
-#EXTINF:-1 group-title="Bics Extra", TYC SPORTS SD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
-
-#EXTINF:-1 group-title="Bics Extra", TYC SPORTS HD
-http://607956789401755507.ofd0120.xyz:80/play/vi1126849/wJtX@KQtX3/755507.ts
-
-#EXTINF:-1 group-title="Bics Extra", ESPN 1
-http://apexelite.xyz:8080/daddyboy1527@yahoo.com/9W7UkPVSZv/578482
-
-#EXTINF:-1 group-title="Bics Extra", ESPN 2
-http://vo01.mohdtv.com:8880/voby1161/izzod4vl/58028
-
-#EXTINF:-1 group-title="Bics Extra", ESPN 3
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/513
-
-#EXTINF:-1 group-title="Bics Extra", ESPN PREMIUM
-http://vo01.mohdtv.com:8880/voby1161/izzod4vl/49718
-
-#EXTINF:-1 group-title="Bics Extra", ESPN PREMIUM OP2
-http://vo01.mohdtv.com:8880/ALLChannels681def169760/42581818/49718
-
-#EXTINF:-1 group-title="Bics Extra", ESPN PREMIUM OP3
-http://vo01.mohdtv.com:8880/voby1995/33712681/49711
-
-#EXTINF:-1 group-title="Bics Extra", ESPN PREMIUM OP4
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/262272.ts
-
-#EXTINF:-1 group-title="Bics Extra", ESPN PREMIUM OP5
-http://nobloque.online:2082/cover/xrQqbD2jD8OK/460619
-
-#EXTINF:-1 group-title="Bics Extra", ESPN PREMIUM OP6
-http://152.89.62.76:8880/29ca11093n03/adsfr3323/49718
-
-#EXTINF:-1 group-title="Bics Extra", ESPN PREMIUM OP7
-http://152.89.62.76:8880/1mmk040092/26827438/49718
-
-#EXTINF:-1 group-title="Bics Extra", TNT SPORTS
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/574346
-
-#EXTINF:-1 group-title="Bics Extra", TNT SPORTS OP2
-http://379923435779755496.ofd0120.xyz:80/play/vi89797/QBStbWGsuhfw/755496.ts
-
-#EXTINF:-1 group-title="Bics Extra", TNT SPORTS OP3
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/35754.ts
-
-#EXTINF:-1 group-title="Bics Extra", TNT SPORTS OP4
-http://vo01.mohdtv.com:8880/ALLChannels681def169760/42581818/49981
-
-#EXTINF:-1 group-title="Bics Extra", TNT SPORTS OP5
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/459
-
-#EXTINF:-1 group-title="Bics Extra", FOX SPORTS 1
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/526
-
-#EXTINF:-1 group-title="Bics Extra", FOX SPORTS 2
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/578497
-
-#EXTINF:-1 group-title="Bics Extra", FOX SPORTS 3
-http://apexelite.xyz:8080/teejr79@yahoo.com/jdC60FHQMW/578498
-
-#EXTINF:-1 group-title="Bics Extra", DIRECTV SPORTS
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/294584.ts
-
-#EXTINF:-1 group-title="Bics Extra", DIRECTV SPORTS 2
-https://ultrapremium.cloud:8443/silvia2023/TVm2mZcr5zdF/473
-
-#EXTINF:-1 group-title="Bics Extra", DEPORTV
-http://134264180898755386.ofd0120.xyz:80/play/hu1211511/aPGCTqAGAU/755386.ts
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bics Extra", MTV HITS UK
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/59935
-
-#EXTINF:-1 group-title="Bics Extra", MTV BASE UK
-http://supersonictv.live:8080/898463/514449/13755
-
-#EXTINF:-1 group-title="Bics Extra", MTV CLASICOS UK
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/59937
-
-#EXTINF:-1 group-title="Bics Extra", MTV ENVIVO
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58589
-
-#EXTINF:-1 group-title="Bics Extra", VEVO 80S
-http://offshore.lat:8080/live/jaimx3782/EfhejuNeJx/302286.ts
-
-#EXTINF:-1 group-title="Bics Extra", OLDIES HITS
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Bics Extra", RETRO
-http://379923435779276235.ofd0120.xyz:80/play/vi89797/QBStbWGsuhfw/276235.ts
-
-#EXTINF:-1 group-title="Bics Extra", DANCE FM
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", MUSICA LATINO
-http://607956789401771156.ofd0120.xyz:80/play/vi1126849/wJtX@KQtX3/771156.ts
-
-#EXTINF:-1 group-title="Bics Extra", CM MUSICA
-http://607956789401764426.ofd0120.xyz:80/play/vi1126849/wJtX@KQtX3/764426.ts
-
-#EXTINF:-1 group-title="Bics Extra", ZONA MUSIC TV
-https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", URBANO TV
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", ECLIPSE MUSICA
-https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
+#EXTINF:0,NEO TV
+#EXTGRP:Bics Extra
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:0,NEOX TV
+#EXTGRP:Bics Extra
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:0,Bayres TV
+#EXTGRP:Bics Extra
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:0,DISNEY+ EVENTOS
+#EXTGRP:Bics Extra
+http://wabot.win:8080/Yuset1207/kz6pyH6U9ZGV/114511
+
+#EXTINF:0,CINE ACCION
+#EXTGRP:Bics Extra
+http://thex.tv:57999/cquiceno/rZScjxH6iK/5934
+
+#EXTINF:0,STAR+
+#EXTGRP:Bics Extra
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/23
+
+#EXTINF:0,FX
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/_ALAEd3yX5gcjoeHXNxz-nNjzwx4lg2Q5I68PJrNy2owWqsbP5bYlunMhaANZvFM
+
+#EXTINF:0,CINECANAL
+#EXTGRP:Bics Extra
+http://visioniptv1.dynu.net:8073/CInecanal?u=alexarodriguez:p=ar123
+
+#EXTINF:0,CINEMAX
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/12.m3u8
+
+#EXTINF:0,SONY TV
+#EXTGRP:Bics Extra
+http://cincotv.org:25461/maria8947/beltran8950/186456
+
+#EXTINF:0,SONY MOVIES
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/CRUIZ292/UMAJZ/469055
+
+#EXTINF:0,AMC
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/186852
+
+#EXTINF:0,TNT
+#EXTGRP:Bics Extra
+http://cincotv.org:25461/maria8947/beltran8950/186477
+
+#EXTINF:0,TNT NOVELAS
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/_ALAEd3yX5gcjoeHXNxz-mKuqIeHllS_oOo1I_-mUCSOXgQewN91spRpZWgjew_a
+
+#EXTINF:0,TNT SERIES
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/DiegoMolina/E2XLaGCn7X/53054
+
+#EXTINF:0,SYFY
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/CRUIZ292/UMAJZ/54240
+
+#EXTINF:0,STUDIO Universal
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/DiegoMolina/E2XLaGCn7X/222826
+
+#EXTINF:0,PARAMOUNT pe
+#EXTGRP:Bics Extra
+http://190.102.246.93:9005/play/a01d
+
+#EXTINF:0,WARNER
+#EXTGRP:Bics Extra
+http://cincotv.org:25461/maria8947/beltran8950/186457
+
+#EXTINF:0,SPACE gus
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/CGTTE/XNHZA/159153
+
+#EXTINF:0,CINE AR
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/Delavega/urudela1209/7981
+
+#EXTINF:0,UNIVERSAL STUDIOS
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a01j/index.m3u8
+
+#EXTINF:0,UNIVERSAL COMEDY
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a02g/index.m3u8
+
+#EXTINF:0,UNIVERSAL CINEMA
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a02f/index.m3u8
+
+#EXTINF:0,UNIVERSAL PREMIERE
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a02e/index.m3u8
+
+#EXTINF:0,UNIVERSAL CRIME
+#EXTGRP:Bics Extra
+http://visioniptv1.dynu.net:8073/Universal%20%20Crime%20Hd?u=alexarodriguez:p=ar123
+
+#EXTINF:0,Europa Europa
+#EXTGRP:Bics Extra
+http://190.0.241.181:8000/play/a071/index.m3u8
+
+#EXTINF:0,HBO 
+#EXTGRP:Bics Extra
+http://venuschiletv.lat:8880/gtv1199ss/fXEsEUssGCXT/414469
+#EXTINF:0,HBO 2
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1155794
+#EXTINF:0,HBO +
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/_ALAEd3yX5gcjoeHXNxz-u0s6eAJ5T_ZucOyX3U_qaG3E7gadnJHfl25xfycuXiv
+#EXTINF:0,HBO SIGNATURE
+#EXTGRP:Bics Extra
+http://tvgusplay.info:8080/JFE725283/PRt6vf4gCyk7/218747
+#EXTINF:0,HBO FAMILY
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a029/index.m3u8
+#EXTINF:0,HBO POP
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159124
+#EXTINF:0,HBO XTREME CHI
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/_ALAEd3yX5gcjoeHXNxz-i1z0nsROUkyfIJEeSWikcM4oJLkPx3dyXDcTPRSIM0z
+#EXTINF:0,HBO MUNDI
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/DiegoMolina/E2XLaGCn7X/19547
+#EXTINF:0,DITI TV
+#EXTGRP:Bics Extra
+https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
+#EXTINF:0,STARZ CINEMA 
+#EXTGRP:Bics Extra
+http://tecnozone.site:8880/OsDLeon/OscarDeL/214
+#EXTINF:0,STARZ EAST
+#EXTGRP:Bics Extra
+http://ultrapremium.cloud:8080/live/Jonatanpineda0309/5DxkRSaJpO/666.ts
+#EXTINF:0,STARZ ENCORE CLASSIC
+#EXTGRP:Bics Extra
+http://ultrapremium.cloud:8080/live/Jonatanpineda0309/5DxkRSaJpO/669.ts
+#EXTINF:0,STARZ ENCORE FAMILY
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/DiegoMolina/E2XLaGCn7X/47717
+#EXTINF:0,STARZ ENCORE SUSPENSE
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/j2vHLLxvJPjo4hD7ZaN2Z2BTQW8XkfbXmSGR6OgO8pmDW8uc3Rvo2U8v0b9wcB90/ts
+#EXTINF:0,GOLDEN
+#EXTGRP:Bics Extra
+http://tvgusplay.info:8080/JFE725283/PRt6vf4gCyk7/37
+#EXTINF:0,GOLDEN PLUS
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/89729.m3u8
+#EXTINF:0,GOLDEN PREMIER
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/DiegoMolina/E2XLaGCn7X/222829
+#EXTINF:0,GOLDEN EDGE
+#EXTGRP:Bics Extra
+http://tvlatino.live:8080/Byronbyco/tkDuDnntbVPC/93514
+#EXTINF:0,AyE
+#EXTGRP:Bics Extra
+http://iptvpremium.ink:55577/david1/david2/167062
+#EXTINF:0,AXN
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/DiegoMolina/E2XLaGCn7X/241995
+#EXTINF:0,TCM
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/DiegoMolina/E2XLaGCn7X/19563
+#EXTINF:0,VOLVER
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/Chifer90/Coche90/7978
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:Bics Extra
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2436
+#EXTINF:0,DISCOVERY
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/93442
+#EXTINF:0,DISCOVERY TURBO
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/54283
+#EXTINF:0,DISCOVERY HyH
+#EXTGRP:Bics Extra
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2457
+#EXTINF:0,DISCOVERY ID
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/L@100.-qaS/PYUTB@2c/53051
+#EXTINF:0,HISTORY
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/242013
+#EXTINF:0,HISTORY 2
+#EXTGRP:Bics Extra
+http://visioniptv1.dynu.net:8073/H2?u=alexarodriguez:p=ar123
+#EXTINF:0,NAT GEO
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a01g/index.m3u8
+#EXTINF:0,TYC SPORTS SD
+#EXTGRP:Bics Extra
+http://tvpremium.pro:80/play/mPpoBCOcSzzS4E_MNWzScvCQsD4PbJX6yooaAMqAXjI/ts
+#EXTINF:0,TYC SPORTS INT
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/_ALAEd3yX5gcjoeHXNxz-oyaxUqvf_3s4Vny5dtCh8l-4RAWSDX1ObniQEkBFLvs
+#EXTINF:0,ESPN 1
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/_ALAEd3yX5gcjoeHXNxz-ve0hzm5EwDWe0c3c5AB9CcUBEOc9F7ZBV4d4j_00eL7
+#EXTINF:0,ESPN 2
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/Delavega/urudela1209/1155889
+#EXTINF:0,ESPN 3
+#EXTGRP:Bics Extra
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/513
+#EXTINF:0,ESPN PREMIUM
+#EXTGRP:Bics Extra
+http://ultrapremium.cloud:8080/962904224tv/946j6z/545
+#EXTINF:0,ESPN PREMIUM OP2
+#EXTGRP:Bics Extra
+http://xdplayer.tv:8080/play/_ALAEd3yX5gcjoeHXNxz-l5XIkCSqDA0XEiyGThn5C2LN2qVt7ea5rmWaRum_SAh
+#EXTINF:0,ESPN PREMIUM OP3
+#EXTGRP:Bics Extra
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/545
+#EXTINF:0,ESPN PREMIUM OP4
+#EXTGRP:Bics Extra
+http://tvgusplay.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/218746
+#EXTINF:0,ESPN PREMIUM OP5 tvpre
+#EXTGRP:Bics Extra
+http://iptvpremium.ink:55577/david1/david2/178983
+#EXTINF:0,ESPN ONE
+#EXTGRP:Bics Extra
+http://yesimes.oknirvana.club:8880/D12m2846/23828775/58029
+#EXTINF:0,DIRECTV 1
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/CRUIZ292/UMAJZ/456660
+#EXTINF:0,DIRECTV BOCA OP2
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/099875156/099875156a/7863
+#EXTINF:0,FOX SPORTS 1 EU (NASCAR)
+#EXTGRP:Bics Extra
+http://1tv41.icu:8080/sherloc2010@yahoo.com/rzVwJgkwwG/46792
+#EXTINF:0,TNT SPORTS           iptv
+#EXTGRP:Bics Extra
+http://iptvpremium.ink:55577/david1/david2/167965
+#EXTINF:0,TNT SPORTS OP2
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/CRUIZ292/UMAJZ/36424
+#EXTINF:0,TNT SPORTS OP3
+#EXTGRP:Bics Extra
+http://tvgusplay.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/147
+#EXTINF:0,TNT SPORTS OP4
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/Delavega/urudela1209/1155814
+#EXTINF:0,TNT SPORTS OP5    LQ
+#EXTGRP:Bics Extra
+http://ultrapremium.cloud:8080/live/Jonatanpineda0309/5DxkRSaJpO/461.ts
+#EXTINF:0,TNT SPORTS OP6
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/JoseIsaac/ZNUGU/211363
+#EXTINF:0,FOX SPORTS 1
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/Chifer90/Coche90/1090739
+#EXTINF:0,FOX SPORTS 2 (uno)
+#EXTGRP:Bics Extra
+http://tv.nousiptv.com:8080/099875156/099875156a/1090739
+#EXTINF:0,FOX SPORTS 3
+#EXTGRP:Bics Extra
+https://tutv.online:443/WErIcKiTaLiZrQg/amfUQwuEgq/173862.ts
+#EXTINF:0,SKY SPORTS F1 (INDYCAR Y F1)
+#EXTGRP:Bics Extra
+http://fortv.cc:8080/33QbGv/014458/35244
+#EXTINF:0,DIRECTV SPORTS OP3
+#EXTGRP:Bics Extra
+http://tecnozone.site:8880/OsDLeon/OscarDeL/118378
+#EXTINF:0,DIRECTV SPORTS 2
+#EXTGRP:Bics Extra
+http://thex.tv:57999/cquiceno/rZScjxH6iK/33679
+#EXTINF:0,DEPORTV
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/jorge201906/key2020wt/29401.m3u8
+#EXTINF:0,MTV ARG
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a01l/index.m3u8
+#EXTINF:0,MTV 80s
+#EXTGRP:Bics Extra
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/24954
+#EXTINF:0,MTV CLASICOS 
+#EXTGRP:Bics Extra
+https://tutv.online:443/WErIcKiTaLiZrQg/amfUQwuEgq/171863.ts
+#EXTINF:0,HTV
+#EXTGRP:Bics Extra
+http://cincotv.org:25461/maria8947/beltran8950/176994
+#EXTINF:0,TELEHIT MUSICA
+#EXTGRP:Bics Extra
+http://home-playtv.com:8080/ALI202366/PYWPF/199531
+#EXTINF:0,VEVO 80S RETROPLUS
+#EXTGRP:Bics Extra
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1895211032.m3u8
+#EXTINF:0,MUZZIK ROCKandROLL
+#EXTGRP:Bics Extra
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0,TRACE URBAN
+#EXTGRP:Bics Extra
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/cb573d1d736c608784cb3b67cef24882967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244da6abfb102488b2f57f3d411cfd31cef83d2469a40877fec159cc7a696da118a818c61af57b230515b277fc9d27aa1373cdcaef282ae171052243f67a4cab2ec493988534a52f98db3d507cc32be47a11c024dd633975a9038ca4aa70cb5e84da1d7cdb7c59788c5b6344d28ade4b3caff30738767f6adfbdc310af115afc926bb0cfa58471a85f8c51b9783349fa42696fe0f775c91c916c9cfe6eb8ac174916ad5a5c5d5384459ad2c28c4d47002d013fa24d86aa1cd126e7d5f43a89441cd88d81112774a888f4deb3212abde98b9786f51d74d1440e16cd55a4a3982642c34d224f79e337b9a6624b1756cab1665db02cbb122a3f380a51e6de1978763ef7fe3b03dd7f429a079730c51e4bc7f09050456f8da4b217c39cf4cefd68ac6720a0be3be8dddc841370a3c58035eddacb73ecbc090692e17c75234693b4544c14a853f9f254d0761984c85e2593ad548715f93cd556a536292c7a692c7879a36d251e78fac69616b232cd75a282f6dc1b99e56fb2c39175754831d6b50b2014e3884b0cde29cc0238eab6da43c6d0370879733441a59676c1a91f231804683737c2a4a7d88aa1dd45643d0a2b42bfb63a14b3a9d1f06/97/640x360_1020800/index.m3u8
+#EXTINF:0,Vclassic TROPICAL
+#EXTGRP:Bics Extra
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
+#EXTINF:0,NICK MUSIC
+#EXTGRP:Bics Extra
+http://live.detodotvplay.com:8080/lamorenita1978/familiaVega8/11488.m3u8
+#EXTINF:0,SIN LIMITES
+#EXTGRP:Bics Extra
+http://181.78.27.128:8000/play/a04e/index.m3u8
+#EXTINF:0,MUSICA NOW 80S
+#EXTGRP:Bics Extra
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/cb513d167d6c678c84cf3b78d8d336dd844c3bdd0b61cb3071aa448f1dc01e5295c0a89da803ff20549970d865017d131b6dca1bdb6201dece0dfd026f2308769a99b27bd8991319c4814d7f7cec320150fc0b0bd03747718ae84f5fdd65e734554ab15823076388bb44fc2452979d0d897d2addfe8c676b7c5b0cfdf96cdf846618383a6c6fea1dc3a32539d77810b9c61b97853e93bae638ef6318a23c26b7af93d49654da96e03efc15eb3708224e153e5dc8f2bb389adb947c2ade0740a5a5e487d1f2dc3450a4524652f7ec8b9e6ced16ddc343eb0466e352cc1dd058e01a5fbdcee90c9c8c1ba6ec8b9611f20f4c87ea9b8187fe273abe67b483fbda76728dff1a7908eb78dd2c242bafdcc20681d02f80dc05a8bb731434cc900aced3e2c3a788dc1bc765e6cefa8d2502563b523dd009f9da7fcd738c2afd8043681c6a41ae915a8bd4890f60321ed6d11ef21a09bcdd849b905f699f2e4b288f0abc770c62d92c163f8f4ad4952665852a0bff5a1bf24a30864de4f861b58bd2eb1323f7b9e347ec64fbba1ad89453f1755d128ed0bf99d55cdd693ca319555f6463/18/848x480_1249600/index.m3u8
+#EXTINF:0,Vclassic TV
+#EXTGRP:Bics Extra
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1074570637.m3u8
+#EXTINF:0,MUZZIK FLASHBACK
+#EXTGRP:Bics Extra
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0,NOWS ROCK  
+#EXTGRP:Bics Extra
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:0,PRUEBAS - TEST CHANNEL
+#EXTGRP:Bics Extra
+http://cincotv.org:25461/maria8947/beltran8950/186869
